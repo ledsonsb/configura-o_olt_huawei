@@ -1,0 +1,10 @@
+## Entendendo o cenário
+
+![Cenário](https://github.com/ledsonsb/configuração_olt/blob/main/_imagens/cenario_completo.PNG)
+
+### Roteiro 
+
+* Entender as portas e como fazer as ligações
+* Criar o backup do data e conf antes de fazer qualquer alteração
+* Criar/Mudar/Deletar usuário de acesso
+* Adicionar as VLANs - Gerencia e Serviço
